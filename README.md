@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ganesh Kumar Reddy</h1>
+<h1 align="center">Hi 👋, I'm Ganesh Kumar </h1>
 <h3 align="center">🚀 Building real-world projects & leveling up every day</h3>
 
 <p align="center">
